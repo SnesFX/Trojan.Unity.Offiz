@@ -1,12 +1,12 @@
 # You are an Idiot!
 
-* This is a simple recreation of the you are an idiot flash virus in Unity using C#.
+* This is a half recreation of the you are an idiot flash virus in Unity using C#.
 
-* Made in 2 hours.
+* Made in 4 hours.
 
 # Notes and Concerns
 
-* This is literally a recreation of the virus, meaning it bounces around and clones itself like the original.don't run this without saving anything you're working on.
+* This isn't a full recreation so, no you're not gonna get a virus or anything.
 
 # What is the you are an idiot virus?
 
