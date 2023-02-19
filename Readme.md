@@ -12,7 +12,7 @@
 
 * I recommend watching [this video](https://www.youtube.com/watch?v=kgs2WTlkp5g&t). 
 
-# Requirements
+# Requirements (for building the project)
 
 * [Unity Hub](https://unity.com/download)
 
