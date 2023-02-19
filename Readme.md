@@ -1,8 +1,6 @@
-# You are an Idiot!
+# Trojan.Unity.Offiz - A unity recreation of You are an Idiot!
 
 * This is a half recreation of the you are an idiot flash virus in Unity using C#.
-
-* Made in 4 hours.
 
 # Notes and Concerns
 
